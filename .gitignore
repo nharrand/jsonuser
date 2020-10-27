@@ -1,0 +1,16 @@
+.idea
+*.iml
+target
+**/.idea
+**/*.iml
+**/target
+**/.idea/*
+**/target/*
+.Rhistory
+**/.Rhistory
+.RData
+**/.RData
+*.log
+**/*.log
+old_pom.xml
+**/old_pom.xml
